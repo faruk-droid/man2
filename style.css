@@ -1,0 +1,723 @@
+.screen-desktop,
+.screen-desktop * {
+  box-sizing: border-box;
+}
+.screen-desktop {
+  background: #ffffff;
+  width: 1440px;
+  height: 5092px;
+  position: relative;
+  overflow: hidden;
+}
+.page-visi-misi {
+  position: absolute;
+  inset: 0;
+}
+.background-frame-5 {
+  background: #003566;
+  width: 1444px;
+  height: 1031px;
+  position: absolute;
+  left: -1px;
+  top: 2400px;
+}
+.rectangle-65 {
+  background: #003566;
+  width: 1471px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 2309px;
+}
+.meningkatkan-kualitas-pendidikan-yang-berorientasi-pada-penghayatan-keimanan-ketaqwaan-kecerdasan-dan-keterampilan-mewujudkan-perilaku-warga-madrasah-yang-peduli-terhadap-pencegahan-pencemaran-menjaga-lingkungan-dari-kerusakan-serta-melestarikannya-mengembangkan-kemampuan-peserta-didik-dalam-berbahasa-arab-berbahasa-inggris-dan-penelitian-mewujudkan-lingkungan-madrasah-yang-bersih-dan-sehat-sebagai-sumber-belajar-yang-menyenangkan-membangun-citra-madrasah-sebagai-mitra-terpercaya-masyarakat-menciptakan-lingkungan-madrasah-yang-rindang-untuk-menuju-madrasah-adiwiyata {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 773.54px;
+  top: 2730px;
+  width: 576.4px;
+  height: 591px;
+}
+.rectangle-32 {
+  background: #82c682;
+  border-radius: 17px;
+  width: 202.14px;
+  height: 550px;
+  position: absolute;
+  left: 32.02px;
+  top: 2598px;
+}
+.rectangle-24 {
+  border-radius: 17px;
+  width: 314.22px;
+  height: 650px;
+  position: absolute;
+  left: 55.04px;
+  top: 2548px;
+  object-fit: cover;
+}
+.rectangle-46 {
+  border-radius: 17px;
+  width: 314.22px;
+  height: 650px;
+  position: absolute;
+  left: 385.27px;
+  top: 2548px;
+  object-fit: cover;
+}
+.visi-dan-misi {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 870px;
+  top: 2441px;
+  width: 571.4px;
+  height: 104px;
+}
+.visi {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 752.52px;
+  top: 2545px;
+  width: 50.03px;
+  height: 44px;
+}
+.misi {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 752.52px;
+  top: 2695px;
+  width: 51.04px;
+  height: 43px;
+}
+.madrasah-islami-terampil-populis-berbasis-digital-dan-mendunia {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 755.53px;
+  top: 2587px;
+  width: 594.41px;
+  height: 87px;
+}
+.page-berita {
+  position: absolute;
+  inset: 0;
+}
+.background-berita-terkini {
+  background: #001d3d;
+  width: 1453px;
+  height: 1092px;
+  position: absolute;
+  left: -10px;
+  top: 1217px;
+}
+.berita-terkini {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 132.29px);
+  top: calc(50% - 943px);
+  width: 683.24px;
+  height: 109px;
+}
+.rectangle-35 {
+  border-radius: 8px;
+  width: 406.52px;
+  height: 303px;
+  position: absolute;
+  left: 28.24px;
+  top: 1423px;
+  object-fit: cover;
+}
+.rectangle-58 {
+  border-radius: 8px;
+  width: 406.52px;
+  height: 303px;
+  position: absolute;
+  left: 29.24px;
+  top: 1848px;
+  object-fit: cover;
+}
+.rectangle-54 {
+  border-radius: 8px;
+  width: 407.53px;
+  height: 304px;
+  position: absolute;
+  left: 511.24px;
+  top: 1426px;
+  object-fit: cover;
+}
+.rectangle-59 {
+  border-radius: 8px;
+  width: 406.52px;
+  height: 306px;
+  position: absolute;
+  left: 512.24px;
+  top: 1849px;
+  object-fit: cover;
+}
+.rectangle-56 {
+  border-radius: 8px;
+  width: 406.52px;
+  height: 304px;
+  position: absolute;
+  left: 985.18px;
+  top: 1426px;
+  object-fit: cover;
+}
+.rectangle-60 {
+  border-radius: 8px;
+  width: 406.52px;
+  height: 306px;
+  position: absolute;
+  left: 985.18px;
+  top: 1849px;
+  object-fit: cover;
+}
+.rectangle-53 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 83px;
+  position: absolute;
+  left: 38.3px;
+  top: 1636px;
+  filter: blur(0px);
+}
+.rectangle-61 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 81px;
+  position: absolute;
+  left: 39.31px;
+  top: 2059px;
+  filter: blur(0px);
+}
+.rectangle-55 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 83px;
+  position: absolute;
+  left: 521.3px;
+  top: 1636px;
+  filter: blur(0px);
+}
+.rectangle-62 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 80px;
+  position: absolute;
+  left: 522.31px;
+  top: 2062px;
+  filter: blur(0px);
+}
+.rectangle-57 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 80px;
+  position: absolute;
+  left: 995.24px;
+  top: 2059px;
+  backdrop-filter: blur(0px);
+}
+.rectangle-63 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88.55px;
+  height: 83px;
+  position: absolute;
+  left: 995.24px;
+  top: 1635px;
+  backdrop-filter: blur(0px);
+}
+.berita-terkini2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 192px);
+  top: calc(50% - 1279px);
+  width: 571.4px;
+  height: 104px;
+}
+.rectangle-66 {
+  background: #001d3d;
+  width: 1453px;
+  height: 121px;
+  position: absolute;
+  left: -6px;
+  top: 1125px;
+}
+.page-pertama {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.page-sambutan {
+  position: absolute;
+  inset: 0;
+}
+.background-frame-6 {
+  background: #3d348b;
+  width: 1443px;
+  height: 1068.92px;
+  position: absolute;
+  left: 0px;
+  top: 3517.08px;
+}
+.sambutan-kepala-sekolah {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 52px;
+  font-weight: 400;
+  position: absolute;
+  left: 52px;
+  top: 3572px;
+  width: 860px;
+  height: 99.21px;
+}
+.assalamu-alaikum-wr-wb-alhamdulillahirabbilalamin-puji-dan-syukur-kami-panjatkan-kahadirat-allah-swt-atas-limpahan-rahmat-hidayah-dan-kenikmatan-nya-sehingga-kami-dapat-merealisasikan-website-madrasah-aliyah-negeri-2-gresik-website-ini-mudah-mudahan-dapat-membuka-jalur-lajur-informasi-secara-utuh-dan-meyeluruh-khususnya-perkembangan-dalam-dunia-pendidikan-di-era-global-dan-dapat-meningkatkan-pelayanan-pendidikan-serta-meningkatkan-kualitas-pembelajaran-peserta-didik-yang-akhirnya-dapat-meningkatkan-pelayanan-kepada-semua-pihak-utamanya-steak-holders-madrasah-aliyah-negeri-2-gresik {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular", sans-serif;
+  font-size: 38px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 3773.57px;
+  width: 696px;
+  height: 804.03px;
+}
+.drs-h-samari-mm {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 67px;
+  font-weight: 600;
+  position: absolute;
+  left: 50px;
+  top: 3643.29px;
+  width: 598px;
+  height: 131.25px;
+}
+.bpk-samari {
+  width: 501px;
+  height: 1012.79px;
+  position: absolute;
+  left: 877px;
+  top: 3497.13px;
+  object-fit: cover;
+}
+.rectangle-662 {
+  background: #3d348b;
+  width: 1444px;
+  height: 91.12px;
+  position: absolute;
+  left: -1px;
+  top: 3428px;
+}
+.bottom-pagee {
+  position: absolute;
+  inset: 0;
+}
+.background-frame-4 {
+  background: #003566;
+  width: 1449px;
+  height: 393px;
+  position: absolute;
+  left: 0px;
+  top: 4578px;
+}
+.rectangle-17 {
+  background: #ffc300;
+  width: 1449px;
+  height: 121px;
+  position: absolute;
+  left: 0px;
+  top: 4971px;
+}
+.bottom-page {
+  width: 556.41px;
+  height: 193px;
+  position: static;
+}
+.madrasah-man-2-gresik-sch-id {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 96.47px;
+  top: 4744px;
+  width: 171.83px;
+  height: 15px;
+}
+._3916884-1 {
+  width: 25.12px;
+  height: 25px;
+  position: absolute;
+  left: 56.27px;
+  top: 4707px;
+  object-fit: cover;
+}
+._5068731-1 {
+  width: 25.12px;
+  height: 25px;
+  position: absolute;
+  left: 56.27px;
+  top: 4824px;
+  object-fit: cover;
+}
+.jl-raya-metatu-no-07-kec-benjeng-kab-gresik {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 95.46px;
+  top: 4711px;
+  width: 275.33px;
+  height: 15px;
+}
+._3916631-1 {
+  width: 25.12px;
+  height: 24px;
+  position: absolute;
+  left: 56.27px;
+  top: 4744px;
+  object-fit: cover;
+}
+._3917561-1 {
+  width: 25.12px;
+  height: 24px;
+  position: absolute;
+  left: 56.27px;
+  top: 4784px;
+  object-fit: cover;
+}
+.https-www-man-2-gresik-sch-id {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 96.47px;
+  top: 4785px;
+  width: 181.88px;
+  height: 15px;
+}
+._031-7993264 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 96.47px;
+  top: 4828px;
+  width: 79.38px;
+  height: 15px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 57.28px;
+  top: 4656px;
+  width: 144.7px;
+  height: 27px;
+}
+.follow-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 459.22px;
+  top: 4657px;
+  width: 128.62px;
+  height: 27px;
+}
+.group-4 {
+  width: 313.99px;
+  height: 4px;
+  position: absolute;
+  left: 56.27px;
+  top: 4692px;
+  overflow: visible;
+}
+.group-5 {
+  width: 153.46px;
+  height: 2.58px;
+  position: absolute;
+  left: 459.22px;
+  top: 4693px;
+  overflow: visible;
+}
+.group-6 {
+  width: 153.46px;
+  height: 2.58px;
+  position: absolute;
+  left: 459.22px;
+  top: 4694px;
+  overflow: visible;
+}
+._4494468-1 {
+  width: 25.12px;
+  height: 25px;
+  position: absolute;
+  left: 459.22px;
+  top: 4706px;
+  object-fit: cover;
+}
+._3116491-1 {
+  width: 26.13px;
+  height: 25px;
+  position: absolute;
+  left: 496.4px;
+  top: 4706px;
+  object-fit: cover;
+}
+._4494467-1 {
+  width: 25.12px;
+  height: 25px;
+  position: absolute;
+  left: 573.77px;
+  top: 4706px;
+  object-fit: cover;
+}
+._1384005-1 {
+  width: 26.13px;
+  height: 25px;
+  position: absolute;
+  left: 535.59px;
+  top: 4706px;
+  object-fit: cover;
+}
+.group-1 {
+  width: 313.99px;
+  height: 4px;
+  position: absolute;
+  left: 56.27px;
+  top: 4692px;
+  overflow: visible;
+}
+.desain-man {
+  height: auto;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 482px;
+  overflow: visible;
+}
+.rectangle-6 {
+  background: #ffc300;
+  position: absolute;
+  right: 0%;
+  left: 0.14%;
+  width: 99.86%;
+  bottom: 97.86%;
+  top: 0.63%;
+  height: 1.51%;
+}
+.ad-79-fa-5-cef-22568875-f-40-b-396586-b-9-d-1-1 {
+  position: absolute;
+  right: 91.12%;
+  left: 5.2%;
+  width: 3.68%;
+  bottom: 98.12%;
+  top: 0.86%;
+  height: 1.02%;
+  object-fit: cover;
+}
+.madrasah-aliyah-negeri-2-gresik {
+  color: #000000;
+  text-align: left;
+  font-family: "DroidSans-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  right: 75.59%;
+  left: 10.26%;
+  width: 14.15%;
+  bottom: 98.32%;
+  top: 1.02%;
+  height: 0.67%;
+}
+.rectangle-30 {
+  background: #003566;
+  position: absolute;
+  right: 0%;
+  left: 0.14%;
+  width: 99.86%;
+  bottom: 99.35%;
+  top: 0%;
+  height: 0.65%;
+}
+._031-79932642 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.1%;
+  left: 38.42%;
+  width: 5.48%;
+  bottom: 99.63%;
+  top: 0.11%;
+  height: 0.26%;
+}
+.jl-raya-metatu-no-07-kec-benjeng-kab-gresik2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 64.84%;
+  left: 17.2%;
+  width: 17.96%;
+  bottom: 99.63%;
+  top: 0.11%;
+  height: 0.26%;
+}
+.madrasah-man-2-gresik-sch-id2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 39.6%;
+  left: 46.67%;
+  width: 13.73%;
+  bottom: 99.52%;
+  top: 0.11%;
+  height: 0.37%;
+}
+._3916882-1 {
+  position: absolute;
+  right: 83.29%;
+  left: 15.12%;
+  width: 1.6%;
+  bottom: 99.44%;
+  top: 0.06%;
+  height: 0.5%;
+  object-fit: cover;
+}
+._5070407-1 {
+  position: absolute;
+  right: 62.07%;
+  left: 36.34%;
+  width: 1.6%;
+  bottom: 99.42%;
+  top: 0.09%;
+  height: 0.5%;
+  object-fit: cover;
+}
+._3916611-1 {
+  position: absolute;
+  right: 54.02%;
+  left: 44.38%;
+  width: 1.6%;
+  bottom: 99.44%;
+  top: 0.06%;
+  height: 0.5%;
+  object-fit: cover;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 736px;
+  top: 50px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22.8700008392334px;
+  font-weight: 400;
+  position: relative;
+  width: 62px;
+  height: 31px;
+}
+.berita {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22.8700008392334px;
+  font-weight: 400;
+  position: relative;
+  width: 66px;
+  height: 31px;
+}
+.visi-misi {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22.8700008392334px;
+  font-weight: 400;
+  position: relative;
+  width: 85px;
+  height: 31px;
+}
+.sambutan {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22.8700008392334px;
+  font-weight: 400;
+  position: relative;
+  width: 105px;
+  height: 31px;
+}
+.ppdb-2023-2024 {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22.8700008392334px;
+  font-weight: 400;
+  position: relative;
+  width: 183px;
+  height: 31px;
+}
